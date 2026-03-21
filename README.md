@@ -1,19 +1,37 @@
-# Dashboard de Produção
+# 📊 Dashboard de Produção
 
-Projeto desenvolvido para treinar HTML e CSS, com foco em layout de dashboard, sidebar de navegação e cards informativos.
+Projeto de dashboard desenvolvido para monitoramento de métricas, com foco em organização visual, usabilidade e prática de front-end.
 
-## 🚀 Tecnologias
+---
+
+## 🚀 Tecnologias utilizadas
+
 - HTML5
 - CSS3
+- Flexbox
+
+---
 
 ## 📌 Funcionalidades
-- Sidebar lateral
-- Cards de métricas
-- Campo de busca
-- Layout organizado
 
-## 🎯 Objetivo
-Praticar conceitos de estrutura, estilização e organização visual no front-end.
+- 📍 Sidebar de navegação
+- 📊 Cards de métricas (produção, dados, etc.)
+- 🔍 Campo de busca
+- 🎨 Layout moderno e organizado
+- 📱 Estrutura preparada para responsividade
 
-## 👨‍💻 Autor
-Marcos Deivide
+---
+
+## 🎯 Objetivo do projeto
+
+Este projeto foi desenvolvido com o objetivo de:
+
+- Praticar estruturação de layouts
+- Melhorar habilidades em CSS
+- Criar interfaces no padrão de dashboards reais
+- Evoluir no desenvolvimento front-end
+
+---
+
+## 📂 Estrutura do projeto
+
