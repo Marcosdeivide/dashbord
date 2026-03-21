@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+.nav-items {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #1e293b;
+  padding: 15px;
+  height: 100vh;
+  width: 200px;
+}
+
+.nav-items a {
+  display: block;
+  padding: 10px;
+  border: 1px solid #94a3b8;
+  border-radius: 5px;
+  color: #94a3b8;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.nav-items a:hover {
+  background-color: #334155;
+  transform: translateY(-5px);
+  transition: 0.5s;
+}
+
+.area-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px;
+  background-color: #cccccc;
+  min-height: 110px;
+  flex: 1 1 150px;
+  border-radius: 10px;
+  margin-top: 7px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.area-direita {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.graficos-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #5e6672;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #94a3b8;
+  border-radius: 5px;
+}
+
+input:hover {
+  background-color: #ccc;
+}
+.destaque {
+  color: green;
+}
+h3 {
+  font-size: 15px;
+}
+.text-size {
+  font-size: 25px;
+}
+
+/*media query */
+
+@media (min-width: 400px) {
+}
+
+@media (min-width: 7680px) {
+}
+
+@media (min-width: 800px) {
+}
